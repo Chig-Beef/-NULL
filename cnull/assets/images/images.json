@@ -1,0 +1,10 @@
+[
+	["missing.png", "missing"],
+	["icon.png", "icon"],
+	["block.png", "block"],
+	["upwardBoost.png", "upwardBoost"],
+	["null.png", "null"],
+	["nullDanger.png", "nullDanger"],
+	["player.png", "player"],
+	["settings.png", "settings"]
+]
